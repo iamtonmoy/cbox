@@ -1,0 +1,2 @@
+cd \\Mac\Home\Desktop\cbox_latest
+python cbox.py 1234
